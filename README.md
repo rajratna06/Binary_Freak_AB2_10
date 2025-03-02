@@ -31,9 +31,6 @@ Image Processing: OpenCV
 
 ---
 
-## Output
-![Alt Text]([https://example.com/image.png](https://github.com/rajratna06/Binary_Freak_AB2_10/blob/main/Output_1.png))
-![Alt Text]([https://example.com/image.png](https://github.com/rajratna06/Binary_Freak_AB2_10/blob/main/Output.png))
 
 
 --- 
