@@ -11,10 +11,6 @@ QuickScan is a document-scanning web application that uses OCR (Tesseract) and A
 ✅ Classify and highlight PII with risk levels (Low, Medium, High)
 ✅ Preview and download the redacted document
 
-
-
----
-
 ---
 
 ## Tech Stack
@@ -31,6 +27,10 @@ Image Processing: OpenCV
 
 ---
 
+## Output
 
+![Output_1](https://github.com/user-attachments/assets/20833ed8-48bb-47d8-9881-62e448bacd64)
+
+![Output](https://github.com/user-attachments/assets/df3b33aa-80c9-4795-abf8-cd7b39b6d050)
 
 --- 
