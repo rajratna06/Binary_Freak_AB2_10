@@ -32,5 +32,7 @@ Image Processing: OpenCV
 ---
 
 ## Output
+<img src="Binary_Freak_AB2_10/Output_1.png" alt="Description" width="300">
+<img src="Binary_Freak_AB2_10/Output.png" alt="Description" width="300">
 
-
+--- 
