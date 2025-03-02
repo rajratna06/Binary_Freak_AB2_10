@@ -10,7 +10,7 @@ QuickScan is a document-scanning web application that uses OCR (Tesseract) and A
 ✅ Extract text from scanned images using Tesseract OCR
 ✅ Classify and highlight PII with risk levels (Low, Medium, High)
 ✅ Preview and download the redacted document
-✅ User-friendly drag-and-drop file upload interface
+
 
 
 ---
@@ -30,3 +30,7 @@ AI for Text Cleaning & Classification: Gemini API
 Image Processing: OpenCV
 
 ---
+
+## Output
+
+
